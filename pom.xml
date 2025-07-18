@@ -27,9 +27,15 @@
 		<tag/>
 		<url/>
 	</scm>
+
+	
 	<properties>
 		<java.version>17</java.version>
+		<sonar.host.url>http://16.16.138.142:9000/</sonar.host.url>
+		<sonar.login>squ_19a1d53334b0dbead93d93bd2a8790ba32c4415c</sonar.login>
 	</properties>
+
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
